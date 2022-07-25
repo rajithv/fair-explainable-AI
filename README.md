@@ -57,7 +57,7 @@ Data engineering has contributed immensely to the advancement of biology and med
   </tr>
 </table>
 
-<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/uop.png">
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/unimelb.png">
 ## <a href="https://www.wehi.edu.au/people/shalin-naik" target="_blank">A/Prof Shalin Naik</a> 
  **The University of Melbourne, Australia** 
 
