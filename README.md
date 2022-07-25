@@ -71,13 +71,13 @@ Data engineering has contributed immensely to the advancement of biology and med
 </table>
 
 
-<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/2d3aeb9af414fa85725d1f6521701f22.png">
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/stanford.png">
 ## <a href="https://www.ransalu.com/" target="_blank">Dr Ransalu Senanayake</a>
 **Stanford University, USA**
 
 <table>
   <tr>
-    <td width="30%"><img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /></td>
+    <td width="30%"><img align="left" width="320px" src="assets/img/people/Ransalu-Senanayake.jpeg" style="border-radius: 50%" /></td>
     <td>Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.</td>
   </tr>
 </table>
