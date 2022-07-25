@@ -89,15 +89,14 @@ Data engineering has contributed immensely to the advancement of biology and med
 
 <table>
   <tr>
-  <td width="30%"><img align="left" width="320px" src="assets/img/people/Sachith-Seneviratne.jpeg" style="border-radius: 50%" /></td>
-    <td>  Dr Sachith Seneviratne is an Artificial Intelligence specialist with a background in Software Engineering. His research in Machine Learning has led to many high quality publications in Artificial Intelligence, Computer Vision, Transport, Urban Design and Ecology.
+    <td width="30%"><img align="left" width="320px" src="assets/img/people/Sachith-Seneviratne.jpeg" style="border-radius: 50%" /></td>
+    <td>Dr Sachith Seneviratne is an Artificial Intelligence specialist with a background in Software Engineering. His research in Machine Learning has led to many high quality publications in Artificial Intelligence, Computer Vision, Transport, Urban Design and Ecology.
 
     Sachith's PhD in Machine Learning (Monash University, Australia) explored the automation of machine learning models by automatically generating parallelized inference algorithms and code from model specifications and broadly incorporated the areas of Machine Learning, Software Engineering, Symbolic Computing, Compiler Theory and Distributed Systems.
 
     Sachith's current research work revolves around Deep Learning, with a focus on Contrastive Representation Learning and applications. He is also broadly interested in Applications of Computer Vision and Agent Based modelling, including Generative Design and Automated Architectural/Transport and Landscape Design.
 
-    Sachith was previously a Research Assistant at RMIT (Agent based modelling) and has performed machine learning consulting for NASA, Harvard University and Currnt.
-
+    Sachith was previously a Research Assistant at RMIT (Agent based modelling) and has performed machine learning consulting for NASA, Harvard University and Currnt. </td>
   </tr>
 </table>
 
