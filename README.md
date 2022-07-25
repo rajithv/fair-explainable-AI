@@ -26,7 +26,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 <table>
   <tr>
   <td width="30%"><img align="left" width="320px" src="assets/img/people/Rajith-Vidanaarachchi.jpeg" style="border-radius: 50%" /></td>
-    <td>  Dr. Rajith Vidanaraarachchi  completed his Bachelor of Science (Hons) at the University of Moratuwa, Sri Lanka, at the Department of Computer Science and Engineering. He commenced his PhD in Data Engineering under the supervision of Prof. Saman Halgamuge at the College of Engineering and Computer Science,  Australian National University. His PhD work is focused on gathering information from complex, heterogeneous data, and on inferring microbial interactions from time series metagenomic data. This has use cases in gut health and other biological/ecological areas. He is now a Research Fellow jointly at the Transport, Health, and Urban Design Research Lab at the Melbourne School of Design, and at the Optimisation and Pattern Recognition Research Lab at the Department of Mechanical Engineering.
+    <td>  Dr. Rajith Vidanaraarachchi  completed his Bachelor of Science (Hons) at the University of Moratuwa, Sri Lanka, at the Department of Computer Science and Engineering. He commenced his PhD in Data Engineering under the supervision of Prof. Saman Halgamuge at the College of Engineering and Computer Science,  Australian National University. His PhD work is focused on gathering information from complex, heterogeneous data, and on inferring microbial interactions from time series metagenomic data. This has use cases in gut health and other biological/ecological areas. He is now a Research Fellow jointly at the Transport, Health, and Urban Design Research Lab at the Melbourne School of Design, and at the Optimisation and Pattern Recognition Research Lab at the Department of Mechanical Engineering.</td>
 
   </tr>
 </table>
@@ -39,7 +39,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 <table>
   <tr>
   <td width="30%"><img align="left" width="320px" src="assets/img/people/Rajith-Vidanaarachchi.jpeg" style="border-radius: 50%" /></td>
-    <td>  Damith Senanayake is a postdoctoral research fellow with the departments of Biomedical Engineering and Mechanical Engineering at the University of Melbourne. He holds a PhD from University of Melbourne in Engineering, specializing in Machine Learning and Artificial Intelligence as applied in biological data analysis. His work prominently focuses on unsupervised learning of structural information from high-diemnsional biological data and efficient joint angle derivations from wearable sensors using contemporary deep learning techniques. He graduated from the University of Moratuwa with a Bachelors Degree in Computer Science and Engineering in 2015.
+    <td>  Damith Senanayake is a postdoctoral research fellow with the departments of Biomedical Engineering and Mechanical Engineering at the University of Melbourne. He holds a PhD from University of Melbourne in Engineering, specializing in Machine Learning and Artificial Intelligence as applied in biological data analysis. His work prominently focuses on unsupervised learning of structural information from high-diemnsional biological data and efficient joint angle derivations from wearable sensors using contemporary deep learning techniques. He graduated from the University of Moratuwa with a Bachelors Degree in Computer Science and Engineering in 2015.</td>
 
   </tr>
 </table>
@@ -52,7 +52,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 <table>
   <tr>
   <td width="30%"><img align="left" width="320px" src="assets/img/people/Damayanthi-Herath.jpeg" style="border-radius: 50%" /></td>
-    <td>  Damayanthi Herath graduated with a B.Sc. (Hons) in Computer Engineering, University of Peradeniya. She was a member of the Optimisation and Pattern Recognition Research Group of Melbourne School of Engineering, Australia where she worked on computational models and methods to profile inherently diverse DNA sequencing data which encode genetic information of multiple species and organisms. She is currently a senior lecturer at the Department of Computer Engineering, University of Peradeniya. Her research interests are in applied machine learning, especially in areas with social impact/aspect.
+    <td>  Damayanthi Herath graduated with a B.Sc. (Hons) in Computer Engineering, University of Peradeniya. She was a member of the Optimisation and Pattern Recognition Research Group of Melbourne School of Engineering, Australia where she worked on computational models and methods to profile inherently diverse DNA sequencing data which encode genetic information of multiple species and organisms. She is currently a senior lecturer at the Department of Computer Engineering, University of Peradeniya. Her research interests are in applied machine learning, especially in areas with social impact/aspect.</td>
 
   </tr>
 </table>
@@ -65,7 +65,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 <table>
   <tr>
   <td width="30%"><img align="left" width="320px" src="assets/img/people/Shalin-Naik.jpeg" style="border-radius: 50%" /></td>
-    <td>  Assoc Prof Naik is a graduate of the University of QLD (Microbiology &amp; Biochemistry) and did his PhD at WEHI. After his postdoc at the Netherlands Cancer Institute, where he developed next-gen cellular barcoding, he returned to WEHI in 2013, where he was later appointed as a Laboratory Head in the Immunology Division. They use single cell and clonal systems biology to investigate immunology, cancer and development. Dr Naik has also had several forays into science communication including as co-host of Ask the Doctor, Catalyst, Searching for Superhuman and The Great Acceleration on the ABC. More recently he started a podcast called The Jab Gab, which pairs comedians, scientists and doctors to talk about all things COVID, vaccines and your immune system.
+    <td>  Assoc Prof Naik is a graduate of the University of QLD (Microbiology &amp; Biochemistry) and did his PhD at WEHI. After his postdoc at the Netherlands Cancer Institute, where he developed next-gen cellular barcoding, he returned to WEHI in 2013, where he was later appointed as a Laboratory Head in the Immunology Division. They use single cell and clonal systems biology to investigate immunology, cancer and development. Dr Naik has also had several forays into science communication including as co-host of Ask the Doctor, Catalyst, Searching for Superhuman and The Great Acceleration on the ABC. More recently he started a podcast called The Jab Gab, which pairs comedians, scientists and doctors to talk about all things COVID, vaccines and your immune system.</td>
 
   </tr>
 </table>
@@ -90,13 +90,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 <table>
   <tr>
     <td width="30%"><img align="left" width="320px" src="assets/img/people/Sachith-Seneviratne.jpeg" style="border-radius: 50%" /></td>
-    <td>Dr Sachith Seneviratne is an Artificial Intelligence specialist with a background in Software Engineering. His research in Machine Learning has led to many high quality publications in Artificial Intelligence, Computer Vision, Transport, Urban Design and Ecology.
-
-    Sachith's PhD in Machine Learning (Monash University, Australia) explored the automation of machine learning models by automatically generating parallelized inference algorithms and code from model specifications and broadly incorporated the areas of Machine Learning, Software Engineering, Symbolic Computing, Compiler Theory and Distributed Systems.
-
-    Sachith's current research work revolves around Deep Learning, with a focus on Contrastive Representation Learning and applications. He is also broadly interested in Applications of Computer Vision and Agent Based modelling, including Generative Design and Automated Architectural/Transport and Landscape Design.
-
-    Sachith was previously a Research Assistant at RMIT (Agent based modelling) and has performed machine learning consulting for NASA, Harvard University and Currnt. </td>
+    <td>Dr Sachith Seneviratne is an Artificial Intelligence specialist with a background in Software Engineering. His research in Machine Learning has led to many high quality publications in Artificial Intelligence, Computer Vision, Transport, Urban Design and Ecology. Sachith's PhD in Machine Learning (Monash University, Australia) explored the automation of machine learning models by automatically generating parallelized inference algorithms and code from model specifications and broadly incorporated the areas of Machine Learning, Software Engineering, Symbolic Computing, Compiler Theory and Distributed Systems. Sachith's current research work revolves around Deep Learning, with a focus on Contrastive Representation Learning and applications. He is also broadly interested in Applications of Computer Vision and Agent Based modelling, including Generative Design and Automated Architectural/Transport and Landscape Design. Sachith was previously a Research Assistant at RMIT (Agent based modelling) and has performed machine learning consulting for NASA, Harvard University and Currnt. </td>
   </tr>
 </table>
 
