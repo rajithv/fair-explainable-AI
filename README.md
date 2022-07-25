@@ -32,7 +32,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 </table>
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/unimelb.png">
-## <a href="https://findanexpert.unimelb.edu.au/profile/850537-damith-asanka-senanayake" target="_blank">Dr Damith Senanayake/a> 
+## <a href="https://findanexpert.unimelb.edu.au/profile/850537-damith-asanka-senanayake" target="_blank">Dr Damith Senanayake</a> 
  **The University of Melbourne, Australia** 
 
 
@@ -45,7 +45,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 </table>
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/uop.png">
-## <a href="http://www.ce.pdn.ac.lk/academic-staff/damayanthi-herath/" target="_blank">Dr Damayanthi Herath/a> 
+## <a href="http://www.ce.pdn.ac.lk/academic-staff/damayanthi-herath/" target="_blank">Dr Damayanthi Herath</a> 
  **University of Peradeniya, Sri Lanka** 
 
 
@@ -58,7 +58,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 </table>
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/uop.png">
-## <a href="https://www.wehi.edu.au/people/shalin-naik" target="_blank">A/Prof Shalin Naik/a> 
+## <a href="https://www.wehi.edu.au/people/shalin-naik" target="_blank">A/Prof Shalin Naik</a> 
  **The University of Melbourne, Australia** 
 
 
