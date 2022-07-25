@@ -6,35 +6,74 @@ Data engineering has contributed immensely to the advancement of biology and med
 
 # Invited Speakers
 
-<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/unimelb.png">
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/unimelb.png">
 ## <a href="https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge" target="_blank">Prof Saman Halgamuge</a> 
  **The University of Melbourne, Australia** 
 
 <table>
   <tr>
-   <td width="30%"><img align="left" width="320px" src="assets/img/David-Bau-2.jpg" style="border-radius: 50%" /></td>
+   <td width="30%"><img align="left" width="320px" src="assets/img/people/Saman-Halgamuge.jpeg" style="border-radius: 50%" /></td>
     <td>Prof Saman Halgamuge is a Fellow of IEEE, a Professor in the School of Electrical, Mechanical and Infrastructure Engineering and a Distinguished Lecturer of IEEE for Computational Intelligence (2019-2021). He served as Director/Head, Research School of Engineering of the Australian National University (ANU) (2016-18), a member of Australian Research Council (ARC) College of Experts for Engineering, Information and Computing Sciences (2016-18), the founding Director of the PhD training centre Melbourne India Postgraduate Program (MIPP) of University of Melbourne and Associate Dean (2013-15) and Assistant Dean (2008-13) in International Engagement in the Melbourne School of Engineering.</td>
   </tr>
 </table>
 
 
-<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/labs-logo.png">
-## <a href="https://www.linkedin.com/in/adrian-baldwin-2a97065" target="_blank">Adrian Baldwin</a>
-**Senior Researcher, HP Labs, United Kingdom** 
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/unimelb.png">
+## <a href="https://rajithv.com" target="_blank">Dr Rajith Vidanaarachchi</a> 
+ **The University of Melbourne, Australia** 
 
 
 <table>
   <tr>
-    <td>  Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Over the years, he has worked on and published in a range of security areas, including security analytics and using ML for security, modeling systems to understand security trade-offs, automating audits, and securing audit logs. He has a Ph.D. in neural networks and natural language understanding from Exeter University.</td>
+  <td width="30%"><img align="left" width="320px" src="assets/img/people/Rajith-Vidanaarachchi.jpeg" style="border-radius: 50%" /></td>
+    <td>  Dr. Rajith Vidanaraarachchi  completed his Bachelor of Science (Hons) at the University of Moratuwa, Sri Lanka, at the Department of Computer Science and Engineering. He commenced his PhD in Data Engineering under the supervision of Prof. Saman Halgamuge at the College of Engineering and Computer Science,  Australian National University. His PhD work is focused on gathering information from complex, heterogeneous data, and on inferring microbial interactions from time series metagenomic data. This has use cases in gut health and other biological/ecological areas. He is now a Research Fellow jointly at the Transport, Health, and Urban Design Research Lab at the Melbourne School of Design, and at the Optimisation and Pattern Recognition Research Lab at the Department of Mechanical Engineering.
+
+  </tr>
+</table>
+
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/unimelb.png">
+## <a href="https://findanexpert.unimelb.edu.au/profile/850537-damith-asanka-senanayake" target="_blank">Dr Damith Senanayake/a> 
+ **The University of Melbourne, Australia** 
+
+
+<table>
+  <tr>
+  <td width="30%"><img align="left" width="320px" src="assets/img/people/Rajith-Vidanaarachchi.jpeg" style="border-radius: 50%" /></td>
+    <td>  Damith Senanayake is a postdoctoral research fellow with the departments of Biomedical Engineering and Mechanical Engineering at the University of Melbourne. He holds a PhD from University of Melbourne in Engineering, specializing in Machine Learning and Artificial Intelligence as applied in biological data analysis. His work prominently focuses on unsupervised learning of structural information from high-diemnsional biological data and efficient joint angle derivations from wearable sensors using contemporary deep learning techniques. He graduated from the University of Moratuwa with a Bachelors Degree in Computer Science and Engineering in 2015.
+
+  </tr>
+</table>
+
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/uop.png">
+## <a href="http://www.ce.pdn.ac.lk/academic-staff/damayanthi-herath/" target="_blank">Dr Damayanthi Herath/a> 
+ **University of Peradeniya, Sri Lanka** 
+
+
+<table>
+  <tr>
+  <td width="30%"><img align="left" width="320px" src="assets/img/people/Damayanthi-Herath.jpeg" style="border-radius: 50%" /></td>
+    <td>  Damayanthi Herath graduated with a B.Sc. (Hons) in Computer Engineering, University of Peradeniya. She was a member of the Optimisation and Pattern Recognition Research Group of Melbourne School of Engineering, Australia where she worked on computational models and methods to profile inherently diverse DNA sequencing data which encode genetic information of multiple species and organisms. She is currently a senior lecturer at the Department of Computer Engineering, University of Peradeniya. Her research interests are in applied machine learning, especially in areas with social impact/aspect.
+
+  </tr>
+</table>
+
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/uop.png">
+## <a href="https://www.wehi.edu.au/people/shalin-naik" target="_blank">A/Prof Shalin Naik/a> 
+ **The University of Melbourne, Australia** 
+
+
+<table>
+  <tr>
+  <td width="30%"><img align="left" width="320px" src="assets/img/people/Shalin-Naik.jpeg" style="border-radius: 50%" /></td>
+    <td>  Assoc Prof Naik is a graduate of the University of QLD (Microbiology &amp; Biochemistry) and did his PhD at WEHI. After his postdoc at the Netherlands Cancer Institute, where he developed next-gen cellular barcoding, he returned to WEHI in 2013, where he was later appointed as a Laboratory Head in the Immunology Division. They use single cell and clonal systems biology to investigate immunology, cancer and development. Dr Naik has also had several forays into science communication including as co-host of Ask the Doctor, Catalyst, Searching for Superhuman and The Great Acceleration on the ABC. More recently he started a podcast called The Jab Gab, which pairs comedians, scientists and doctors to talk about all things COVID, vaccines and your immune system.
+
   </tr>
 </table>
 
 
-
-
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/2d3aeb9af414fa85725d1f6521701f22.png">
-## <a href="https://www.ransalu.com/" target="_blank">Ransalu Senanayake</a>
-**Postdoctoral Researcher, Stanford University, USA**
+## <a href="https://www.ransalu.com/" target="_blank">Dr Ransalu Senanayake</a>
+**Stanford University, USA**
 
 <table>
   <tr>
@@ -43,29 +82,26 @@ Data engineering has contributed immensely to the advancement of biology and med
   </tr>
 </table>
 
-<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/SingHealth_Logo.png"> 
-## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilbert Lim</a>
-**AI Scientist, SingHealth, Singapore**
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/institutes/unimelb.png">
+## <a href="https://msd.unimelb.edu.au/about/our-people/academic/sachith-seneviratne" target="_blank">Dr Sachith Seneviratne/a> 
+ **The University of Melbourne, Australia** 
+
 
 <table>
   <tr>
-    <td width="30%"><img align="left" width="320px" src="assets/img/gilb.png" style="border-radius: 50%" /></td>
-    <td>  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016.</td>
+  <td width="30%"><img align="left" width="320px" src="assets/img/people/Sachith-Seneviratne.jpeg" style="border-radius: 50%" /></td>
+    <td>  Dr Sachith Seneviratne is an Artificial Intelligence specialist with a background in Software Engineering. His research in Machine Learning has led to many high quality publications in Artificial Intelligence, Computer Vision, Transport, Urban Design and Ecology.
+
+    Sachith's PhD in Machine Learning (Monash University, Australia) explored the automation of machine learning models by automatically generating parallelized inference algorithms and code from model specifications and broadly incorporated the areas of Machine Learning, Software Engineering, Symbolic Computing, Compiler Theory and Distributed Systems.
+
+    Sachith's current research work revolves around Deep Learning, with a focus on Contrastive Representation Learning and applications. He is also broadly interested in Applications of Computer Vision and Agent Based modelling, including Generative Design and Automated Architectural/Transport and Landscape Design.
+
+    Sachith was previously a Research Assistant at RMIT (Agent based modelling) and has performed machine learning consulting for NASA, Harvard University and Currnt.
+
   </tr>
 </table>
 
 
-<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/Google_2015_logo.svg.webp"> 
-## <a href="https://www.linkedin.com/in/jayjaynandy/?originalSubdomain=in" target="_blank">Jay Nandy</a>
-**Postdoctoral Researcher, Google India, India**
-
-<table>
-  <tr>
-    <td width="30%"><img align="left" width="320px" src="assets/img/jay.jpeg" style="border-radius: 50%" /></td>
-    <td>  Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.
-</td>
-  </tr>
-</table>
 
 # Workshop Schedule
 All times are in the Indian Standard Time (IST) zone. \
