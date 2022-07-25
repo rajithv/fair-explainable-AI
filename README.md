@@ -38,7 +38,7 @@ Data engineering has contributed immensely to the advancement of biology and med
 
 <table>
   <tr>
-  <td width="30%"><img align="left" width="320px" src="assets/img/people/Rajith-Vidanaarachchi.jpeg" style="border-radius: 50%" /></td>
+  <td width="30%"><img align="left" width="320px" src="assets/img/people/Damith-Senanayake.jpeg" style="border-radius: 50%" /></td>
     <td>  Damith Senanayake is a postdoctoral research fellow with the departments of Biomedical Engineering and Mechanical Engineering at the University of Melbourne. He holds a PhD from University of Melbourne in Engineering, specializing in Machine Learning and Artificial Intelligence as applied in biological data analysis. His work prominently focuses on unsupervised learning of structural information from high-diemnsional biological data and efficient joint angle derivations from wearable sensors using contemporary deep learning techniques. He graduated from the University of Moratuwa with a Bachelors Degree in Computer Science and Engineering in 2015.</td>
 
   </tr>
