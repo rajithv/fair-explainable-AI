@@ -1,21 +1,19 @@
 .
 # Overview
-Despite the remarkable performance and many applications, Machine Learning systems may have many pitfalls. For example, Deep Neural Networks (DNNs) can be fooled into malfunction by simply applying a small perturbation to the data, indicating that these techniques are not robust. Further, incidents have been reported where the ML decisions were unfair and hurt people in the minority or historically disadvantaged groups. Troubleshooting such issues with some of the best performing ML systems (e.g., DNNs) is also not possible due to their black-box nature. In other words, they are not human interpretable. Furthermore, unlike standard software systems, the validity of operations of an ML system cannot be formally verified against a user specification. To address these issues, the ML community has extensively researched techniques to make ML systems trustworthy because when deployed in the real world, human lives may depend on these systems. The umbrella covering interpretability, robustness, fairness, and verifiability of ML systems is commonly referred to as trustworthy ML. 
-
-This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward.\
+Data engineering has contributed immensely to the advancement of biology and medicine. Various AI-based solutions are proposed and implemented for decision-making. However, the widespread adoption of AI as a frequent tool in decision-making that has tangible impacts on patient well-being is still far from achieving its potential due to the controversy of outsourcing the health and medical decision-making processes to black-box AI methods. Therefore, fairness and explainability are two factors that are desirable by biologists and medical practitioners. Recent research has focused on producing AI methods that are both transparent and can cater to improving societal equity in their respective domains. With this in mind, we consider the advances made in fairness and explainability of AI in medical and biological applications. We conceive it vital that they are considered in generalisable engineering solutions. Accordingly, this workshop focuses on methods suitable for developing fair and explainable AI-based solutions for biology and medicine.
 
 **The workshop will be held virtually on 29th July 2022.** <span style="color:blue"> **REGISTRATION IS FREE** </span>
 
 # Invited Speakers
 
- <a href="https://baulab.info/" target="_blank"><img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png"></a>
-## <a href="https://baulab.info/" target="_blank">David Bau</a> 
- **Assistance Professor, Northeastern University, USA.** 
+<img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/unimelb.png">
+## <a href="https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge" target="_blank">Prof Saman Halgamuge</a> 
+ **The University of Melbourne, Australia** 
 
 <table>
   <tr>
    <td width="30%"><img align="left" width="320px" src="assets/img/David-Bau-2.jpg" style="border-radius: 50%" /></td>
-    <td>David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.</td>
+    <td>Prof Saman Halgamuge is a Fellow of IEEE, a Professor in the School of Electrical, Mechanical and Infrastructure Engineering and a Distinguished Lecturer of IEEE for Computational Intelligence (2019-2021). He served as Director/Head, Research School of Engineering of the Australian National University (ANU) (2016-18), a member of Australian Research Council (ARC) College of Experts for Engineering, Information and Computing Sciences (2016-18), the founding Director of the PhD training centre Melbourne India Postgraduate Program (MIPP) of University of Melbourne and Associate Dean (2013-15) and Assistant Dean (2008-13) in International Engagement in the Melbourne School of Engineering.</td>
   </tr>
 </table>
 
