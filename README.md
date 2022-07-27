@@ -103,11 +103,17 @@ All times are in the Indian Standard Time (IST) zone. \
 | Time         | Session | Speaker/s |
 | ------------------ | ----------------- | ------------------------ |
 |<img width=175/>|<img width=425/>|<img width=300/>|
-| 08:30 - 08:05 | Introductions | Dr Damayanthi Herath |
-| 08:05 - 08:35 | FAIR AI | Prof Saman Halgamuge |
-| 08:35 - 09:05 | Fairness in Medicine and Biology | Dr Rajith Vidanaarachchi |
-| 09:05 - 09:35 | Explainability in Medicine and Biology | Dr Damith Senanayake |
-| 09:35 - 10:20 | Discussion on Open Problems | Moderated by Dr Damith Senanayake |
-| 10:20 - 11:05 | Panel Discussion | Moderated by Dr Damayanthi Herath |
-| 11:05 - 11:10 | Wrap up | Dr Damayanthi Herath |
+| 08:30 - 08:40 | Introductions | Dr Damayanthi Herath |
+| 08:40 - 09:10 | FAIR AI | Prof Saman Halgamuge |
+| 09:10 - 09:40 | Fairness in Medicine and Biology | Dr Rajith Vidanaarachchi |
+| 09:40 - 10:10 | Explainability in Medicine and Biology | Dr Damith Senanayake |
+| 10:10 - 10:15 | Break |
+| 10:15 - 11:00 | Discussion on Open Problems | Moderated by Dr Damith Senanayake. \
+- Ms Rashindrie Perera \
+- Ms Branislava Godic \
+- Mr Nisal Ranasinghe |
+| 11:00 - 11:45 | Panel Discussion | Moderated by Dr Damayanthi Herath \
+- Dr Shalin Naik \
+- Dr Ransalu Senanayake \ 
+- Dr Sachith Seneviratne |
 
