@@ -107,7 +107,7 @@ All times are in the Indian Standard Time (IST) zone. \
 | 08:40 - 09:10 | FAIR AI | Prof Saman Halgamuge |
 | 09:10 - 09:40 | Fairness in Medicine and Biology | Dr Rajith Vidanaarachchi |
 | 09:40 - 10:10 | Explainability in Medicine and Biology | Dr Damith Senanayake |
-| 10:10 - 10:15 | Break |
+| 10:10 - 10:15 | Break | |
 | 10:15 - 11:00 | Discussion on Open Problems | Moderated by Dr Damith Senanayake. \
 - Ms Rashindrie Perera \
 - Ms Branislava Godic \
